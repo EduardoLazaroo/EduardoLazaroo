@@ -1,7 +1,7 @@
 Olá! Eu sou Eduardo Lázaro
 
 - 😁 Cursando Analise e Desenvolvimento de Sistemas - Unimar (Bolsa 100%)
-- ✨ Atualmente trabalhando com NFT e Criptomoedas
+- ✨ Atualmente trabalhando como Freelancer
 - 🌲 Paraguaçu Paulista - São Paulo
 - 🛩 eduardolazaroso@hotmail.com
 
