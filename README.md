@@ -2,8 +2,10 @@ Olá! Eu sou Eduardo Lázaro
 
 - 😁 Cursando Analise e Desenvolvimento de Sistemas - Unimar (Bolsa 100%)
 - ✨ Atualmente trabalhando como Freelancer
-- 🌲 Marilia, sp - São Paulo
+- 🌲 Marilia - São Paulo
 - 🛩 eduardolazaroso@hotmail.com
+- https://www.linkedin.com/in/eduardo-lazaro666/
+- (18)998065592
 
 <div align="center">
 <a href="https://github.com/EduardoLazaroo">
