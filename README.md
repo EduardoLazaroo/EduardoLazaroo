@@ -2,11 +2,11 @@ Olá! Eu sou Eduardo Lázaro
 
 - 😁 Cursando Analise e Desenvolvimento de Sistemas - Unimar (Bolsa 100%)
 - ✨ Atualmente trabalhando como Freelancer
-- 🌲 Paraguaçu Paulista - São Paulo
+- 🌲 Marilia, sp - São Paulo
 - 🛩 eduardolazaroso@hotmail.com
 
 <div align="center">
-<a href="https://github.com/Eduardo-Lazaro">
+<a href="https://github.com/EduardoLazaroo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLazaroo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
