@@ -1,8 +1,8 @@
 Olá! Eu sou Eduardo Lázaro
 
-- 😁 Cursando Analise e Desenvolvimento de Sistemas - Unimar (Bolsa 100%)
-- ✨ Atualmente trabalhando como Freelancer
-- 🌲 Marilia - São Paulo
+- 😁 Cursando Ultimo ano Analise e Desenvolvimento de Sistemas - Unimar
+- ✨ Trabalhando no "Centro de Inovação do agronegocio - CIAg"
+- 🌲 Marilia - Sp / Pompeia - Sp
 - 🛩 eduardolazaroso@hotmail.com
 
 <div align="center">
@@ -17,6 +17,7 @@ Olá! Eu sou Eduardo Lázaro
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
 
   ##
