@@ -1,31 +1,45 @@
-Olá! Eu sou Eduardo Lázaro
+<h2 align="left">Olá! Eu sou Eduardo Lázaro</h2>
 
-- 😁 Cursando Ultimo ano Analise e Desenvolvimento de Sistemas - Unimar
-- ✨ Trabalhando no "Centro de Inovação do agronegocio - CIAg"
-- 🌲 Marilia - Sp / Pompeia - Sp
-- 🛩 eduardolazaroso@hotmail.com
+###
+<p align="center">Cursando Ultimo ano Analise e Desenvolvimento de Sistemas - Unimar<br>Trabalhando no "Centro de Inovação do Agronegócio - CIAg"<br>Marília - Sp / Pompeia - Sp<br>eduardolazaroso@hotmail.com</p>
 
+###
 <div align="center">
-<a href="https://github.com/EduardoLazaroo">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLazaroo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&username=EduardoLazaroo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&username=EduardoLazaroo" height="150" alt="languages graph"  />
 </div>
 
-  ##
-
-<div> 
-<a href="https://instagram.com/eduardo.lazaro.666" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardo-lazaro666/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="68" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="68" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="68" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="68" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="68" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="68" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="68" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="68" alt="photoshop logo"  />
 </div>
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-lazaro666/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/eduardo.lazaro.666/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://contate.me/eduardo_lazaro" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+<div align="center">
+  <img height="200" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"  />
+</div>
+
+###
+<img href="https://github.com/EduardoLazaroo/EduardoLazaroo/blob/output/snake.svg" alt="Snake animation" />
+
+###
