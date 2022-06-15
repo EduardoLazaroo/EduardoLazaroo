@@ -1,7 +1,7 @@
 <h2 align="left">Olá! Eu sou Eduardo Lázaro</h2>
 
 ###
-<p align="center">Cursando Ultimo ano Analise e Desenvolvimento de Sistemas - Unimar<br>Trabalhando no "Centro de Inovação do Agronegócio - CIAg"<br>Marília - Sp / Pompeia - Sp<br>eduardolazaroso@hotmail.com</p>
+<p align="center">😁 Cursando Ultimo ano Analise e Desenvolvimento de Sistemas - Unimar<br>✨ Trabalhando no "Centro de Inovação do Agronegócio - CIAg"<br> 🌲 Marília - Sp / Pompeia - Sp<br> 🛩 eduardolazaroso@hotmail.com</p>
 
 ###
 <div align="center">
@@ -40,6 +40,6 @@
 </div>
 
 ###
-<img href="https://github.com/EduardoLazaroo/EduardoLazaroo/blob/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 ###
