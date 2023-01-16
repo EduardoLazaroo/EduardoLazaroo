@@ -9,6 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&username=EduardoLazaroo" height="150" alt="languages graph"  />
 </div>
 
+<div>
+https://github-stats-alpha.vercel.app/api?username={EduardoLazaroo}
+</div>
+
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="68" alt="javascript logo"  />
