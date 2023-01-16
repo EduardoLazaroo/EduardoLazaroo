@@ -10,7 +10,7 @@
 </div>
 
 <div>
-https://github-stats-alpha.vercel.app/api?username={EduardoLazaroo}
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 
 ###
