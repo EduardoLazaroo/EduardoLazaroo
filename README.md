@@ -3,7 +3,7 @@
 ###  
 <p align="center">
   🎓 Analista de sistemas <br>
-  🎓 Pós-graduando em Engenharia de Software <br>
+  🎓 Pós-graduado em Engenharia de Software <br>
   💻 Professor e Coordenador do Ensino Técnico em Desenvolvimento de Sistemas <br>
   🌍 Apaixonado por Tecnologia, IA, Deep Learning e Desenvolvimento Full Stack
 </p>
